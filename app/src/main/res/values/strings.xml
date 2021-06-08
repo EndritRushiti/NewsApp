@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="button_search_txt">Search</string>
+    <string name="search_edit_text_txt">Search your topic</string>
+    <string name="load_more_btn">Load More</string>
+    <string name="str_tools_web_tittle">Title</string>
+</resources>
